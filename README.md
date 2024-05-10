@@ -1,1 +1,2 @@
-# Mathematical_Basis_of_Information_Security
+# NKU-CSSE0031-信息安全数学基础
+提供平时作业的代码部分以及对应的实验报告
